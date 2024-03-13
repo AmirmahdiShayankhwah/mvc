@@ -1,0 +1,589 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\mcc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\mcc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\mcc.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\css\\Vazirmatn-RD-FD-font-face.css",
+      "PackagePath": "staticwebassets\\css\\Vazirmatn-RD-FD-font-face.css"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\css\\dark.css",
+      "PackagePath": "staticwebassets\\css\\dark.css"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\css\\odometer.min.css",
+      "PackagePath": "staticwebassets\\css\\odometer.min.css"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\css\\remixicon.css",
+      "PackagePath": "staticwebassets\\css\\remixicon.css"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\css\\rtl.css",
+      "PackagePath": "staticwebassets\\css\\rtl.css"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.eot"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.svg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.ttf"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.woff"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.woff2"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\remixicon.eot",
+      "PackagePath": "staticwebassets\\fonts\\remixicon.eot"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\remixicon.svg",
+      "PackagePath": "staticwebassets\\fonts\\remixicon.svg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\remixicon.ttf"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\remixicon.woff",
+      "PackagePath": "staticwebassets\\fonts\\remixicon.woff"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\remixicon.woff2"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\webfonts\\Vazirmatn-RD-FD-Black.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\Vazirmatn-RD-FD-Black.woff2"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\webfonts\\Vazirmatn-RD-FD-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\Vazirmatn-RD-FD-Bold.woff2"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\webfonts\\Vazirmatn-RD-FD-ExtraBold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\Vazirmatn-RD-FD-ExtraBold.woff2"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\webfonts\\Vazirmatn-RD-FD-ExtraLight.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\Vazirmatn-RD-FD-ExtraLight.woff2"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\webfonts\\Vazirmatn-RD-FD-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\Vazirmatn-RD-FD-Light.woff2"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\webfonts\\Vazirmatn-RD-FD-Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\Vazirmatn-RD-FD-Medium.woff2"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\webfonts\\Vazirmatn-RD-FD-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\Vazirmatn-RD-FD-Regular.woff2"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\webfonts\\Vazirmatn-RD-FD-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\Vazirmatn-RD-FD-SemiBold.woff2"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\fonts\\webfonts\\Vazirmatn-RD-FD-Thin.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\Vazirmatn-RD-FD-Thin.woff2"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\academics\\academic-1.jpg",
+      "PackagePath": "staticwebassets\\images\\academics\\academic-1.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\academics\\academic-2.jpg",
+      "PackagePath": "staticwebassets\\images\\academics\\academic-2.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\academics\\academic-3.jpg",
+      "PackagePath": "staticwebassets\\images\\academics\\academic-3.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\academics\\academic-4.jpg",
+      "PackagePath": "staticwebassets\\images\\academics\\academic-4.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\academics\\academic-5.jpg",
+      "PackagePath": "staticwebassets\\images\\academics\\academic-5.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\academics\\academic-6.jpg",
+      "PackagePath": "staticwebassets\\images\\academics\\academic-6.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\academics\\academic-7.jpg",
+      "PackagePath": "staticwebassets\\images\\academics\\academic-7.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\academics\\academic-8.jpg",
+      "PackagePath": "staticwebassets\\images\\academics\\academic-8.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\academics\\academic-9.jpg",
+      "PackagePath": "staticwebassets\\images\\academics\\academic-9.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\admission\\admission-1.jpg",
+      "PackagePath": "staticwebassets\\images\\admission\\admission-1.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\admission\\admission-2.jpg",
+      "PackagePath": "staticwebassets\\images\\admission\\admission-2.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\admission\\admission-3.jpg",
+      "PackagePath": "staticwebassets\\images\\admission\\admission-3.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\alumni\\alumni-1.jpg",
+      "PackagePath": "staticwebassets\\images\\alumni\\alumni-1.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\alumni\\alumni-2.jpg",
+      "PackagePath": "staticwebassets\\images\\alumni\\alumni-2.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\alumni\\alumni-3.jpg",
+      "PackagePath": "staticwebassets\\images\\alumni\\alumni-3.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\alumni\\alumni-4.jpg",
+      "PackagePath": "staticwebassets\\images\\alumni\\alumni-4.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\alumni\\alumni-5.jpg",
+      "PackagePath": "staticwebassets\\images\\alumni\\alumni-5.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\alumni\\alumni-6.jpg",
+      "PackagePath": "staticwebassets\\images\\alumni\\alumni-6.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\alumni\\alumni-7.jpg",
+      "PackagePath": "staticwebassets\\images\\alumni\\alumni-7.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\banner\\banner-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner-img1.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\banner\\banner-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner-img2.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\banner\\banner-img3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner-img3.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\banner\\banner-img4.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner-img4.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\banner\\banner-img5.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner-img5.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\banner\\banner-img6.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner-img6.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\banner\\banner-img7.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner-img7.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\banner\\banner-img8.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner-img8.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\banner\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\thumb-1.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\banner\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\thumb-2.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\banner\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\thumb-3.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\campus-information\\campus-1.jpg",
+      "PackagePath": "staticwebassets\\images\\campus-information\\campus-1.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\campus-information\\campus-2.jpg",
+      "PackagePath": "staticwebassets\\images\\campus-information\\campus-2.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\campus-life\\campus-life-1.jpg",
+      "PackagePath": "staticwebassets\\images\\campus-life\\campus-life-1.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\campus-life\\campus-life-2.jpg",
+      "PackagePath": "staticwebassets\\images\\campus-life\\campus-life-2.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\campus-life\\campus-life-3.jpg",
+      "PackagePath": "staticwebassets\\images\\campus-life\\campus-life-3.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\campus-life\\campus-life-4.jpg",
+      "PackagePath": "staticwebassets\\images\\campus-life\\campus-life-4.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\campus-life\\campus-life-5.jpg",
+      "PackagePath": "staticwebassets\\images\\campus-life\\campus-life-5.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\campus-life\\campus-life-6.jpg",
+      "PackagePath": "staticwebassets\\images\\campus-life\\campus-life-6.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\courses\\admin-1.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\admin-1.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\courses\\admin-2.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\admin-2.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\courses\\admin-3.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\admin-3.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\courses\\courses-1.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\courses-1.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\courses\\courses-2.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\courses-2.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\courses\\courses-3.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\courses-3.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\courses\\courses-4.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\courses-4.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\courses\\instructor.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\instructor.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\courses\\review-1.png",
+      "PackagePath": "staticwebassets\\images\\courses\\review-1.png"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\courses\\review-2.png",
+      "PackagePath": "staticwebassets\\images\\courses\\review-2.png"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\events\\events-1.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\events-1.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\events\\events-2.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\events-2.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\events\\events-3.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\events-3.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\events\\events-4.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\events-4.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\events\\events-5.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\events-5.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\events\\events-6.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\events-6.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\events\\events-7.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\events-7.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\events\\events-8.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\events-8.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\faq-img.jpg",
+      "PackagePath": "staticwebassets\\images\\faq-img.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\health-care\\health-care-1.jpg",
+      "PackagePath": "staticwebassets\\images\\health-care\\health-care-1.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\health-care\\health-care-10.jpg",
+      "PackagePath": "staticwebassets\\images\\health-care\\health-care-10.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\health-care\\health-care-11.jpg",
+      "PackagePath": "staticwebassets\\images\\health-care\\health-care-11.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\health-care\\health-care-2.jpg",
+      "PackagePath": "staticwebassets\\images\\health-care\\health-care-2.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\health-care\\health-care-3.jpg",
+      "PackagePath": "staticwebassets\\images\\health-care\\health-care-3.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\health-care\\health-care-4.jpg",
+      "PackagePath": "staticwebassets\\images\\health-care\\health-care-4.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\health-care\\health-care-5.jpg",
+      "PackagePath": "staticwebassets\\images\\health-care\\health-care-5.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\health-care\\health-care-6.jpg",
+      "PackagePath": "staticwebassets\\images\\health-care\\health-care-6.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\health-care\\health-care-7.jpg",
+      "PackagePath": "staticwebassets\\images\\health-care\\health-care-7.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\health-care\\health-care-8.jpg",
+      "PackagePath": "staticwebassets\\images\\health-care\\health-care-8.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\health-care\\health-care-9.jpg",
+      "PackagePath": "staticwebassets\\images\\health-care\\health-care-9.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\news\\news-1.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\news-1.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\news\\news-2.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\news-2.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\news\\news-3.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\news-3.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\news\\news-4.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\news-4.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\news\\news-5.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\news-5.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\news\\news-6.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\news-6.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\news\\news-7.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\news-7.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\night.png",
+      "PackagePath": "staticwebassets\\images\\night.png"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\page-banner\\page-bnner-1.jpg",
+      "PackagePath": "staticwebassets\\images\\page-banner\\page-bnner-1.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\page-banner\\page-bnner-2.jpg",
+      "PackagePath": "staticwebassets\\images\\page-banner\\page-bnner-2.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\podcasts\\podcasts-1.jpg",
+      "PackagePath": "staticwebassets\\images\\podcasts\\podcasts-1.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\podcasts\\podcasts-2.jpg",
+      "PackagePath": "staticwebassets\\images\\podcasts\\podcasts-2.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\podcasts\\podcasts-3.jpg",
+      "PackagePath": "staticwebassets\\images\\podcasts\\podcasts-3.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\podcasts\\podcasts-4.jpg",
+      "PackagePath": "staticwebassets\\images\\podcasts\\podcasts-4.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\podcasts\\podcasts-5.jpg",
+      "PackagePath": "staticwebassets\\images\\podcasts\\podcasts-5.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\podcasts\\podcasts-6.jpg",
+      "PackagePath": "staticwebassets\\images\\podcasts\\podcasts-6.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\podcasts\\podcasts-7.jpg",
+      "PackagePath": "staticwebassets\\images\\podcasts\\podcasts-7.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\shape-1.png",
+      "PackagePath": "staticwebassets\\images\\shape-1.png"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\stundent-life\\student-life-1.jpg",
+      "PackagePath": "staticwebassets\\images\\stundent-life\\student-life-1.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\stundent-life\\student-life-2.jpg",
+      "PackagePath": "staticwebassets\\images\\stundent-life\\student-life-2.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\stundent-life\\student-life-3.jpg",
+      "PackagePath": "staticwebassets\\images\\stundent-life\\student-life-3.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\subscribe-img.jpg",
+      "PackagePath": "staticwebassets\\images\\subscribe-img.jpg"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\sunny.png",
+      "PackagePath": "staticwebassets\\images\\sunny.png"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\images\\white-logo.png",
+      "PackagePath": "staticwebassets\\images\\white-logo.png"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\js\\ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\ajaxchimp.min.js"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\js\\appear.min.js",
+      "PackagePath": "staticwebassets\\js\\appear.min.js"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\js\\carousel-thumbs.min.js",
+      "PackagePath": "staticwebassets\\js\\carousel-thumbs.min.js"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\js\\contact-form-script.js",
+      "PackagePath": "staticwebassets\\js\\contact-form-script.js"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\js\\form-validator.min.js",
+      "PackagePath": "staticwebassets\\js\\form-validator.min.js"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\js\\jquery.meanmenu.js",
+      "PackagePath": "staticwebassets\\js\\jquery.meanmenu.js"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\js\\odometer.min.js",
+      "PackagePath": "staticwebassets\\js\\odometer.min.js"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\mcc\\wwwroot\\php\\form-process.php",
+      "PackagePath": "staticwebassets\\php\\form-process.php"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.mcc.props",
+      "PackagePath": "build\\mcc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.mcc.props",
+      "PackagePath": "buildMultiTargeting\\mcc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.mcc.props",
+      "PackagePath": "buildTransitive\\mcc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.mcc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

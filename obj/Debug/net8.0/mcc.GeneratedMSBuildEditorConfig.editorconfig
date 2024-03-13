@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = mcc
+build_property.RootNamespace = mcc
+build_property.ProjectDir = E:\mcc\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\mcc
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/mcc/Views/center/academics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGFjYWRlbWljcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/academicsdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGFjYWRlbWljc2RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/alumni.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGFsdW1uaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/campuslife.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGNhbXB1c2xpZmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/comingsoon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGNvbWluZ3Nvb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/contactus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGNvbnRhY3R1cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/courses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGNvdXJzZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/coursesdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGNvdXJzZXNkZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/events.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGV2ZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/eventsdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGV2ZW50c2RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/faq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGZhcS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/graduateadmission.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGdyYWR1YXRlYWRtaXNzaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/healthcare.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGhlYWx0aGNhcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/healthcaredetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGhlYWx0aGNhcmVkZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGluZGV4Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/latestnews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGxhdGVzdG5ld3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXGxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/newsdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXG5ld3NkZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/recoverpassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXHJlY292ZXJwYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXHJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/center/termsconditions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2VudGVyXHRlcm1zY29uZGl0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mcc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ij3w7kq9cw
